@@ -37,7 +37,6 @@ You agree that Node owners providing the Services are doing so in good faith and
 
 ## 7. DISCLAIMERS
 
-Tarik, [8/2/23 8:02 PM]
 OctaSpace reserves the right to modify the Service, and we will attempt to prevent interruptions and defects. However, the Service is provided on an "as is" and "as available" basis, and we do not guarantee uninterrupted availability or the accuracy of the Service or any material provided. You are solely responsible for your use of the Service.
 
 ## 8. LIMITATION OF LIABILITY

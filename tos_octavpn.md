@@ -35,7 +35,6 @@ OctaSpace reserves the right to modify the Service, and we will attempt to preve
 
 ## 8. LIMITATION OF LIABILITY
 
-Tarik, [8/2/23 8:17 PM]
 By using the Service, you agree that it is at your sole risk. OctaSpace and its affiliates, employees, agents, and licensors do not warrant uninterrupted or error-free Service and disclaim all warranties, either express or implied. We shall not be liable for any damages arising from the use of the Service, including direct, indirect, incidental, special, consequential, or punitive damages.
 
 Node owners providing the Services shall also be entitled to defend, indemnify, and hold harmless us, our affiliates, and our respective directors, officers, employees, and agents from and against all claims and expenses, including attorneys' fees, arising out of their provision of the Services, except for claims arising directly from the user's misuse or illegal activities while using the Services.
