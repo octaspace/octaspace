@@ -55,7 +55,7 @@ The Services are intended for use only in compliance with applicable laws. You a
 
 ## 12. CHANGES TO THE TERMS OF SERVICE
 
-We reserve the right to modify or replace these Terms at any time. If a revision is material, we will provide at least [number of days] days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+We reserve the right to modify or replace these Terms at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
 
 We encourage all users to abide by the Usage Policy and Prohibited Activities outlined in these Terms to ensure the protection and reputation of Node owners and the integrity of our Services.
 
