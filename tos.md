@@ -47,9 +47,7 @@ Node owners providing the Services shall also be entitled to defend, indemnify, 
 
 ## 9. FORCE MAJEURE
 
-Neither party shall
-
- be responsible for any failure or delay in performance due to circumstances beyond its reasonable control, including acts of God, war, riot, embargoes, civil or military authorities' acts, fires, floods, accidents, equipment and/or software failures, and telecommunication failures.
+Neither party shall be responsible for any failure or delay in performance due to circumstances beyond its reasonable control, including acts of God, war, riot, embargoes, civil or military authorities' acts, fires, floods, accidents, equipment and/or software failures, and telecommunication failures.
 
 ## 10. INDEMNIFICATION
 
