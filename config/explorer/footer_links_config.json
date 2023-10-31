@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Community",
+        "links": [
+            {
+                "text": "Telegram",
+                "url": "https://t.me/octa_space"
+            },
+            {
+                "text": "Discord",
+                "url": "https://discord.gg/octaspace"
+            },
+            {
+                "text": "Twitter",
+                "url": "https://twitter.com/octa_space"
+            },
+            {
+                "text": "YouTube",
+                "url": "https://www.youtube.com/@octa_space"
+            },
+            {
+                "text": "Reddit",
+                "url": "https://www.reddit.com/r/octaspace/"
+            }
+        ]
+    },
+    {
+        "title": "Developers",
+        "links": [
+            {
+                "text": "Documentation",
+                "url": "https://docs.octa.space/"
+            },
+            {
+                "text": "GitHub",
+                "url": "https://github.com/octaspace"
+            }
+        ]
+    }
+]

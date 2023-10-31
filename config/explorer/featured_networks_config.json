@@ -1,0 +1,20 @@
+[
+    {
+        "title": "OctaSpace",
+        "url": "https://explorer.octa.space/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/octaspace/logos/main/logo-128x128.png"
+    },
+    {
+        "title": "OctaSpace",
+        "url": "https://testnet-explorer.octa.space/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/octaspace/logos/main/logo-128x128.png"
+    },
+    {
+        "title": "OctaSpace Layer 2",
+        "url": "https://l2-explorer.octa.space",
+        "group": "Other",
+        "icon": "https://raw.githubusercontent.com/octaspace/logos/main/logo-128x128.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+		"author": "PACMAN",
+		"id": "pacman",
+		"title": "PacMan Staking Pool",
+		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/safe.svg",
+		"categories": ["Staking Pools", "Games"],
+		"shortDescription": "Pacman Staking pool",
+		"site": "https://pacman.pw",
+		"description": "",
+		"external": true,
+		"url": "https://coinstaking.space/"
+	},
+    {
+        "author": "luckbucks",
+        "id": "luckbucks",
+        "title": "Lucky Bucks",
+        "logo": "https://coffee-middle-porpoise-650.mypinata.cloud/ipfs/QmPDKTKQs4LhjEe7YsZ5UgQSvKCGT6AS6z1yvBFAmjvohG?_gl=1*1h5ru4y*_ga*NzYyNjcyMDgzLjE2OTcyODUzMzM.*_ga_5RMPXG14TE*MTY5ODM1NDUxNS4yLjEuMTY5ODM1NDUyNy40OC4wLjA",
+        "categories": ["Lottery"],
+        "shortDescription": "Lottery/Casino",
+        "site": "https://luckybucks.io",
+        "description": "",
+        "external": true,
+        "url": "https://luckybucks.io/"
+    }
+]
