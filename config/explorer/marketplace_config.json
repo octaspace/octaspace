@@ -1,16 +1,16 @@
 [
     {
-		"author": "PACMAN",
-		"id": "pacman",
-		"title": "PacMan Staking Pool",
-		"logo": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/marketplace-logos/safe.svg",
-		"categories": ["Staking Pools", "Games"],
-		"shortDescription": "Pacman Staking pool",
-		"site": "https://pacman.pw",
-		"description": "",
-		"external": true,
-		"url": "https://coinstaking.space/"
-	},
+        "author": "PACMAN",
+        "id": "pacman",
+        "title": "PacMan Staking Pool",
+        "logo": "https://www.pacman.trade/static/img/feature_choose.fe618b9.png",
+        "categories": ["Staking Pools"],
+        "shortDescription": "PacMan Staking Pool",
+        "site": "https://coinstaking.space",
+        "description": "PacMan Staking Pool",
+        "external": true,
+        "url": "https://coinstaking.space/"
+},
     {
         "author": "luckbucks",
         "id": "luckbucks",
@@ -19,7 +19,7 @@
         "categories": ["Lottery"],
         "shortDescription": "Lottery/Casino",
         "site": "https://luckybucks.io",
-        "description": "",
+        "description": "Lucky Bucks (LBC) is a deflationary, multifunctional token operating within the OCTA network. Our platform features a diverse range of casino games, including Blackjack, Casino Hold'em, Plinko, Video Poker, Baccarat, and Roulette, with an ever-evolving list of offerings. Additionally, we host a bi-weekly lottery, distributing 50% of the pool among the winners and burning from the lottery's proceeds.",
         "external": true,
         "url": "https://luckybucks.io/"
     }
