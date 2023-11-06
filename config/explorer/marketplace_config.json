@@ -34,5 +34,17 @@
         "description": "Our platform features a diverse range of casino games, including Blackjack, Casino Hold'em, Plinko, Video Poker, Baccarat, and Roulette, with an ever-evolving list of offerings. Additionally, we host a bi-weekly lottery, distributing 50% of the pool among the winners and burning from the lottery's proceeds.",
         "external": true,
         "url": "https://luckybucks.io/"
+    },
+    {
+        "author": "altcoinchain",
+        "id": "swapin",
+        "title": "Swapin.co AMM & DEX",
+        "logo": "https://swapin.co/static/media/logo512.f7a75728.png",
+        "categories": ["DEX"],
+        "shortDescription": "Automated Marketmaking Decentralized Exchange",
+        "description": "Swapin.co are a simple but proven Automated Market Maker DEX, using the secure Uniswap V2 Contracts.",
+        "site": "https://swapin.co",
+        "external": true,
+        "url": "https://swapin.co"
     }
 ]
