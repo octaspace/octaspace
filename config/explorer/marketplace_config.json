@@ -39,7 +39,7 @@
         "author": "altcoinchain",
         "id": "swapin",
         "title": "Swapin.co AMM & DEX",
-        "logo": "https://swapin.co/static/media/logo512.f7a75728.png",
+        "logo": "https://raw.githubusercontent.com/swapinco/frontend/main/logo512x512.png",
         "categories": ["DEX"],
         "shortDescription": "Automated Marketmaking Decentralized Exchange",
         "description": "Swapin.co are a simple but proven Automated Market Maker DEX, using the secure Uniswap V2 Contracts.",
