@@ -46,5 +46,16 @@
         "site": "https://swapin.co",
         "external": true,
         "url": "https://swapin.co"
+    },
+    {
+        "author": "OCTARARE",
+        "id": "octarare",
+        "title": "NFT Marketplace",
+        "logo": "https://photos.pinksale.finance/file/pinksale-logo-upload/1706032689634-8cd08de46b94214c270c182c681819d0.png",
+        "categories": ["NFT", "Marketplace"],
+        "description": "Octarare is the first NFT marketplace on OctaSpace Blockchain. Octarare offers a user-friendly marketplace for artists and art enthusiasts, providing easy navigation and a seamless experience. Users can explore a wide range of NFTs, filter by categories, and discover the captivating stories behind each piece, enhancing their appreciation for the art.",
+        "site": "https://octarare.website",
+        "external": true,
+        "url": "https://octarare.website"
     }
 ]
