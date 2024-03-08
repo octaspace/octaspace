@@ -63,12 +63,13 @@
         "author": "AiDEX",
         "id": "aidex",
         "title": "AiDEX",
-        "logo": "https://github.com/aidex-project/logos/blob/main/aidex-black.png?raw=true",
+        "logo": "https://github.com/aidex-project/logos/blob/main/AiDEX-main-logo.jpg?raw=true",
         "categories": ["DEX", "DeFi"],
-        "shortDescription": "AiDEX - is fully decentralized exchange and your key to the world of decentralized finance! Swap tokens, participate in DeFi and control your funds!",
+        "shortDescription": "Decentralized Exchange",
         "description": "AiDEX - is fully decentralized exchange and your key to the world of decentralized finance! Swap tokens, participate in DeFi and control your funds!",
         "site": "https://aidex.fi",
         "external": true,
-        "url": "https://aidex.fi"
+        "url": "https://aidex.fi",
+        "github": "https://github.com/aidex-project"
     }
 ]
