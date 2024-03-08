@@ -40,7 +40,7 @@
         "id": "swapin",
         "title": "Swapin.co AMM & DEX",
         "logo": "https://raw.githubusercontent.com/swapinco/frontend/main/logo512x512.png",
-        "categories": ["DEX"],
+        "categories": ["DEX", "AMM", "DeFi"],
         "shortDescription": "Automated Marketmaking Decentralized Exchange",
         "description": "Swapin.co are a simple but proven Automated Market Maker DEX, using the secure Uniswap V2 Contracts.",
         "site": "https://swapin.co",
@@ -50,7 +50,7 @@
     {
         "author": "OCTARARE",
         "id": "octarare",
-        "title": "NFT Marketplace",
+        "title": "OCTA RARE",
         "logo": "https://photos.pinksale.finance/file/pinksale-logo-upload/1706032689634-8cd08de46b94214c270c182c681819d0.png",
         "categories": ["NFT", "Marketplace"],
         "shortDescription": "Octarare is the first NFT marketplace on OctaSpace Blockchain.",
@@ -58,5 +58,17 @@
         "site": "https://octarare.website",
         "external": true,
         "url": "https://octarare.website"
+    },
+    {
+        "author": "AiDEX",
+        "id": "aidex",
+        "title": "AiDEX",
+        "logo": "https://github.com/aidex-project/logos/blob/main/aidex-black.png?raw=true",
+        "categories": ["DEX", "DeFi"],
+        "shortDescription": "AiDEX - is fully decentralized exchange and your key to the world of decentralized finance! Swap tokens, participate in DeFi and control your funds!",
+        "description": "AiDEX - is fully decentralized exchange and your key to the world of decentralized finance! Swap tokens, participate in DeFi and control your funds!",
+        "site": "https://aidex.fi",
+        "external": true,
+        "url": "https://aidex.fi"
     }
 ]
