@@ -80,9 +80,9 @@
         "categories": ["DEX", "Launchpad"],
         "shortDescription": "Decentralized Exchange",
         "description": "Decentralized Exchange",
-        "site": "https://octaswap.io/",
+        "site": "https://octaswap.io",
+        "url": "https://octaswap.io",
         "twitter": "https://x.com/2Guys_Labs?s=09",
-        "telegram": "https://t.me/TwoGuysLabs",
-        "url": "https://octaswap.io/"
+        "telegram": "https://t.me/TwoGuysLabs"
     }
 ]
