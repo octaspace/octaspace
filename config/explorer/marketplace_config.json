@@ -71,5 +71,17 @@
         "external": true,
         "url": "https://aidex.fi",
         "github": "https://github.com/aidex-project"
+    },
+    {
+        "author": "OctaSwap",
+        "id": "octaswap",
+        "title": "OctaSwap",
+        "logo": "https://coffee-middle-porpoise-650.mypinata.cloud/ipfs/QmRhm9i5nnrf6jqS78Sa1MeYR7A1ex9zB6ULsCcebZGvPh",
+        "categories": ["DEX", "Launchpad"],
+        "shortDescription": "Decentralized Exchange",
+        "description": "Decentralized Exchange",
+        "site": "https://octaswap.io/",
+        "twitter": "https://x.com/2Guys_Labs?s=09",
+        "telegram": "https://t.me/TwoGuysLabs"
     }
 ]
