@@ -10,11 +10,5 @@
         "url": "https://testnet-explorer.octa.space/",
         "group": "Testnets",
         "icon": "https://raw.githubusercontent.com/octaspace/logos/main/logo-128x128.png"
-    },
-    {
-        "title": "OctaSpace Layer 2",
-        "url": "https://l2-scan.octa.space",
-        "group": "Other",
-        "icon": "https://raw.githubusercontent.com/octaspace/logos/main/logo-128x128.png"
     }
 ]
