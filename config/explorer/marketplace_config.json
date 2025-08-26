@@ -1,17 +1,5 @@
 [
     {
-        "author": "PACMAN",
-        "id": "pacman_pool",
-        "title": "PacMan Staking Pool",
-        "logo": "https://raw.githubusercontent.com/octaspace/octaspace/main/config/explorer/3rd-logos/pac-project.png",
-        "categories": ["Staking Pools"],
-        "shortDescription": "OCTA/PAC Staking Service",
-        "site": "https://pac-staking.com/",
-        "description": "We suggest you use our $OCTA staking service, for those who don't have 100,000 coins for their own node, but really wants an extra reward so the coins don't sit idle.",
-        "external": true,
-        "url": "https://pac-staking.com/"
-    },
-    {
         "author": "luckbucks",
         "id": "luckbucks",
         "title": "Lucky Bucks",
